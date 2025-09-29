@@ -44,7 +44,7 @@ CrewAI/
 Clone the repo and install in **editable mode**:
 
 ```bash
-git clone https://github.com/your-username/crewai.git
+git clone https://github.com/Ponmurugaiya/CrewAI-Shopping-Agents.git
 cd crewai
 pip install -e .
 ````
