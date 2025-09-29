@@ -45,8 +45,8 @@ Clone the repo and install in **editable mode**:
 
 ```bash
 git clone https://github.com/Ponmurugaiya/CrewAI-Shopping-Agents.git
-cd crewai
-pip install -e .
+cd CrewAI-Shopping-Agents
+pip install -r requirements.txt
 ````
 
 ---
@@ -57,12 +57,6 @@ pip install -e .
 
 ```bash
 python main.py
-```
-
-or if installed with an entry point:
-
-```bash
-crewai
 ```
 
 ### Example Output
