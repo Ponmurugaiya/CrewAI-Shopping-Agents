@@ -94,9 +94,4 @@ To extend:
 * Modify `utils.py` to add new filters
 * Enhance `agents.py` with new agent roles
 
----
 
-## License
-
-This project is licensed under the **MIT License**.
-See the [LICENSE](LICENSE) file for details.
